@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\.net\\Account\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F03D117-A954-4618-83AA-56E83BB6DA80}|Account\\Bank.csproj|f:\\.net\\account\\account\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F03D117-A954-4618-83AA-56E83BB6DA80}|Account\\Bank.csproj|solutionrelative:account\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F03D117-A954-4618-83AA-56E83BB6DA80}|Account\\Bank.csproj|f:\\.net\\account\\account\\trustaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F03D117-A954-4618-83AA-56E83BB6DA80}|Account\\Bank.csproj|solutionrelative:account\\trustaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F03D117-A954-4618-83AA-56E83BB6DA80}|Account\\Bank.csproj|f:\\.net\\account\\account\\savingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F03D117-A954-4618-83AA-56E83BB6DA80}|Account\\Bank.csproj|solutionrelative:account\\savingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F03D117-A954-4618-83AA-56E83BB6DA80}|Account\\Bank.csproj|f:\\.net\\account\\account\\checkingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F03D117-A954-4618-83AA-56E83BB6DA80}|Account\\Bank.csproj|solutionrelative:account\\checkingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F03D117-A954-4618-83AA-56E83BB6DA80}|Account\\Bank.csproj|f:\\.net\\account\\account\\accountutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F03D117-A954-4618-83AA-56E83BB6DA80}|Account\\Bank.csproj|solutionrelative:account\\accountutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F03D117-A954-4618-83AA-56E83BB6DA80}|Account\\Bank.csproj|f:\\.net\\account\\account\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F03D117-A954-4618-83AA-56E83BB6DA80}|Account\\Bank.csproj|solutionrelative:account\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TrustAccount.cs",
+              "DocumentMoniker": "F:\\.net\\Account\\Account\\TrustAccount.cs",
+              "RelativeDocumentMoniker": "Account\\TrustAccount.cs",
+              "ToolTip": "F:\\.net\\Account\\Account\\TrustAccount.cs",
+              "RelativeToolTip": "Account\\TrustAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T11:33:50.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SavingAccount.cs",
+              "DocumentMoniker": "F:\\.net\\Account\\Account\\SavingAccount.cs",
+              "RelativeDocumentMoniker": "Account\\SavingAccount.cs",
+              "ToolTip": "F:\\.net\\Account\\Account\\SavingAccount.cs",
+              "RelativeToolTip": "Account\\SavingAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T10:31:08.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CheckingAccount.cs",
+              "DocumentMoniker": "F:\\.net\\Account\\Account\\CheckingAccount.cs",
+              "RelativeDocumentMoniker": "Account\\CheckingAccount.cs",
+              "ToolTip": "F:\\.net\\Account\\Account\\CheckingAccount.cs",
+              "RelativeToolTip": "Account\\CheckingAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T10:01:57.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountUtil.cs",
+              "DocumentMoniker": "F:\\.net\\Account\\Account\\AccountUtil.cs",
+              "RelativeDocumentMoniker": "Account\\AccountUtil.cs",
+              "ToolTip": "F:\\.net\\Account\\Account\\AccountUtil.cs",
+              "RelativeToolTip": "Account\\AccountUtil.cs",
+              "ViewState": "AQIAAAYAAABgZmZmZmYkwCkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T09:48:46.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Account.cs",
+              "DocumentMoniker": "F:\\.net\\Account\\Account\\Account.cs",
+              "RelativeDocumentMoniker": "Account\\Account.cs",
+              "ToolTip": "F:\\.net\\Account\\Account\\Account.cs",
+              "RelativeToolTip": "Account\\Account.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T09:46:07.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\.net\\Account\\Account\\Program.cs",
+              "RelativeDocumentMoniker": "Account\\Program.cs",
+              "ToolTip": "F:\\.net\\Account\\Account\\Program.cs",
+              "RelativeToolTip": "Account\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T09:41:38.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

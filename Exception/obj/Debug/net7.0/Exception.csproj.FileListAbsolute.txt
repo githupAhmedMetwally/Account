@@ -1,0 +1,14 @@
+F:\.net\Account\Exception\bin\Debug\net7.0\Exception.exe
+F:\.net\Account\Exception\bin\Debug\net7.0\Exception.deps.json
+F:\.net\Account\Exception\bin\Debug\net7.0\Exception.runtimeconfig.json
+F:\.net\Account\Exception\bin\Debug\net7.0\Exception.dll
+F:\.net\Account\Exception\bin\Debug\net7.0\Exception.pdb
+F:\.net\Account\Exception\obj\Debug\net7.0\Exception.GeneratedMSBuildEditorConfig.editorconfig
+F:\.net\Account\Exception\obj\Debug\net7.0\Exception.AssemblyInfoInputs.cache
+F:\.net\Account\Exception\obj\Debug\net7.0\Exception.AssemblyInfo.cs
+F:\.net\Account\Exception\obj\Debug\net7.0\Exception.csproj.CoreCompileInputs.cache
+F:\.net\Account\Exception\obj\Debug\net7.0\Exception.dll
+F:\.net\Account\Exception\obj\Debug\net7.0\refint\Exception.dll
+F:\.net\Account\Exception\obj\Debug\net7.0\Exception.pdb
+F:\.net\Account\Exception\obj\Debug\net7.0\Exception.genruntimeconfig.cache
+F:\.net\Account\Exception\obj\Debug\net7.0\ref\Exception.dll
